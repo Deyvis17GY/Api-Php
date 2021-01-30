@@ -1,0 +1,9 @@
+{
+    "conexion":{
+    "server":"localhost",
+    "user":"u938215475_root",
+    "password":"Merari2305",
+    "database":"u938215475_apirest",
+    "port":"3306"
+    }
+}
